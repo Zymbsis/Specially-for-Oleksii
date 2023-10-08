@@ -6,8 +6,5 @@
 <symbol id="icon-Vector2" viewBox="0 0 72 32">
 <path fill="none" stroke="#e0e0e0" style="stroke: var(--color1, #e0e0e0)" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" stroke-width="0.6598" d="M0 31.67h31.835v-31.34h40.082"></path>
 </symbol>
-<symbol id="icon-Vector3" viewBox="0 0 65 32">
-<path fill="none" stroke="#e0e0e0" style="stroke: var(--color1, #e0e0e0)" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" stroke-width="0.5926" d="M0 0.296h28.593v31.407h36"></path>
-</symbol>
 </defs>
 </svg>
